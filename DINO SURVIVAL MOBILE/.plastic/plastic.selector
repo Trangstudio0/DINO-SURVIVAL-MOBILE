@@ -1,0 +1,4 @@
+repository "DINO SURVIVAL MOBILE 2025-08-10_06-35-09/DINO SURVIVAL MOBILE@18968301389739@cloud"
+  path "/"
+    br "/main"
+    co "/main"
